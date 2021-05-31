@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main() {    
 
-    int number1, number2,sum ; // correct the code
+    int number1, number2,sum  ; // correct the code
     
     printf("Enter two integers: ");
     scanf("%d%d", &number1, &number2);
