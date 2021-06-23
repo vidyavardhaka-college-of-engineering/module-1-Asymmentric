@@ -7,10 +7,10 @@ int main()
     //printf(" Enter the value of x: ");
     // insert the missing code
     scanf("%d",&x);
-    printf("y = %d  ",y=++x);
-    printf("y = %d  ",y=x++);
-    printf("y = %d  ",y=--x);
-    printf("y = %d",y=x--); // correct the code 
+    printf("y = %d ",y=++x);
+    printf("y = %d ",y=x++);
+    printf("y = %d ",y=--x);
+    printf("y = %d ",y=x--); // correct the code 
     return 0;
 }
 
