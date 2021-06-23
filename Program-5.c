@@ -2,9 +2,7 @@
 //OUTPUT: 7 13   6 14
 // insert the missing line
 #include<stdio.h>
-#include<stdlib.h>
- int main ()
-{ 
+ int main (){ 
   // insert the missing code
   int i,j;
   //printf("Enter the values of i and j");
