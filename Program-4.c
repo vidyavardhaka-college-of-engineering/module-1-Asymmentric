@@ -10,7 +10,7 @@ int main() {
     quotient = dividend/divisor;  //corect the code
 
     // Computes remainder
-    remainder = dividend/divisor; // correct the code
+    remainder = dividend%divisor; // correct the code
 
     printf("Quotient = %d ", quotient);  // correct the code
     printf("Remainder = %d ", remainder);  // correct the code
